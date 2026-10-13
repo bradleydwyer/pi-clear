@@ -1,0 +1,9 @@
+{
+	"name": "pi-clear",
+	"version": "0.1.0",
+	"description": "Pi extension: /clear as an alias of the built-in /new",
+	"keywords": ["pi-package", "pi", "pi-extension"],
+	"peerDependencies": {
+		"@earendil-works/pi-coding-agent": "*"
+	}
+}
